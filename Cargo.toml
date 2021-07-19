@@ -1,0 +1,8 @@
+[workspaces]
+
+members = [
+  "builder",
+  "engine",
+  "loader",
+  "player"
+]
